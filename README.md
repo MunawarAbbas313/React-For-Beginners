@@ -1,17 +1,8 @@
-# React-For-Beginners
-In this Repo i will be sharing all the material to Learn React-Js from start.
-Requriments .
-i. All concepts of JS ( Loops , DOM , Arrays , Objects , Fetch etc )
-ii. Node Js a run time Envirmont for JS
-iii. Stable Interent Connection
-iv. HTML5   ( Tages )
-React is a JavaScript library for building user interfaces
-React has been designed from the start for gradual adoption, and you can use as little or as much React as you need. Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+# React + Vite
 
-Add React to a Website
-You can add React to an HTML page in one minute. You can then either gradually expand its presence, or keep it contained to a few dynamic widgets.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Create a New React App
-When starting a React project, a simple HTML page with script tags might still be the best option. It only takes a minute to set up!
+Currently, two official plugins are available:
 
-As your application grows, you might want to consider a more integrated setup. There are several JavaScript toolchains we recommend for larger applications. Each of them can work with little to no configuration and lets you take full advantage of the rich React ecosystem.
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
